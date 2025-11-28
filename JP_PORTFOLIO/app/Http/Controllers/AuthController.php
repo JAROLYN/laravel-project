@@ -34,4 +34,4 @@ class AuthController extends Controller
     }
     function login(Request $request){
     }
-}
+} gdhdh
